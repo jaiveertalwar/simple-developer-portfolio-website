@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "jaiveertalwar",
   name: "Jaiveer Talwar",
   designation: "Developer and Author",
-  avatarUrl: "/avatar.png",
+  avatarUrl: "https://source.unsplash.com/1000x1000/?dubai",
   email: "jaiveer_talwar@giftsthatgive.in",
   phone: "+971 52 723 6104",
   address: "Dubai, United Arab Emirates.",
