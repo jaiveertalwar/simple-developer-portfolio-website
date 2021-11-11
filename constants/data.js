@@ -1,11 +1,11 @@
 const userData = {
-  githubUsername: "manuarora700",
-  name: "Manu Arora",
-  designation: "Full-Stack Developer",
+  githubUsername: "jaiveertalwar",
+  name: "Jaiveer Talwar",
+  designation: "Developer and Author",
   avatarUrl: "/avatar.png",
-  email: "manuarorawork@gmail.com",
-  phone: "+91 9587738861",
-  address: "Jaipur, Rajasthan, India.",
+  email: "jaiveer_talwar@giftsthatgive.in",
+  phone: "+971 52 723 6104",
+  address: "Dubai, United Arab Emirates.",
   projects: [
     {
       title: "Tailwind Master Kit",
