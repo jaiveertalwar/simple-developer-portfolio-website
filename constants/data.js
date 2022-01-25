@@ -36,6 +36,13 @@ const userData = {
   },
   experience: [
      {
+      title: "CEO",
+      company: "custom3D",
+      year: "2022-",
+      companyLink: "https://custom3d.store",
+      desc: "3D, Customized.",
+    },
+     {
       title: "Developer",
       company: "NoRollr",
       year: "2021",
@@ -49,12 +56,19 @@ const userData = {
       companyLink: "https://thepetproject.in",
       desc: "Writing for The Pet Project; India's pet blog.",
     },
+     {
+      title: "Participant",
+      company: "Columbia Business School",
+      year: "2020",
+      companyLink: "https://home.gsb.columbia.edu/",
+      desc: "Participated in a Social Entrepreneurship course.",
+    },
     {
       title: "Founder and Developer",
       company: "Gifts That Give",
       year: "2020-",
-      companyLink: "https://tailwindmasterkit.com",
-      desc: "Developed a marketplace for tailwind web components (React, HTML and Angular) and templates.",
+      companyLink: "https://giftsthatgive.in",
+      desc: "Charity",
     },
   ],
   resumeUrl:
