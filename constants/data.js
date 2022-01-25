@@ -8,6 +8,11 @@ const userData = {
   address: "Dubai, United Arab Emirates.",
   projects: [
     {
+      title: "UAECovid",
+      link: "https://uaecovid.com",
+      imgUrl: "/uae.png",
+    },
+    {
       title: "Gifts That Give",
       link: "https://giftsthatgive.in",
       imgUrl: "/gtg.png",
