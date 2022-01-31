@@ -1,4 +1,4 @@
-obimport React from "react";
+import React from "react";
 import userData from "@constants/data";
 
 export default function AboutMe() {
