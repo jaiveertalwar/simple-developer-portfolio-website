@@ -1,4 +1,4 @@
-import React from "react";
+obimport React from "react";
 import userData from "@constants/data";
 
 export default function AboutMe() {
@@ -49,16 +49,7 @@ export default function AboutMe() {
                 Job Opportunities
               </h1>
               <p className="text-lg text-gray-500 mt-4 dark:text-gray-300">
-                I'm looking for a job currently, If you see me as a good fit,
-                check my{" "}
-                <a
-                  href={userData.resumeUrl}
-                  target="__blank"
-                  className="text-gray-800 border-b-2 border-gray-800 dark:border-gray-300 font-bold dark:text-gray-300"
-                >
-                  CV
-                </a>{" "}
-                and I'd love to work for you.
+                I'm a hobbyist.  If you want to partner, email me.,
               </p>
             </div>
             {/* Social Links */}
